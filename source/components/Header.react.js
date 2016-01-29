@@ -1,5 +1,10 @@
 var React = require('react');
 
+/**
+* Render a h2 markup with a text
+* props:
+*   text: a text of h2 markup
+*/
 var headerStyle = {
   fontSize: '16px',
   fontWeight: '300',
